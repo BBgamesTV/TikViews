@@ -24,3 +24,6 @@ Options :
 Release 24/09
 ---------
 Beta en cours....
+
+Telecharger >> 
+https://github.com/BBgamesTV/TikViews/releases/tag/publish
