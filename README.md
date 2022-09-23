@@ -1,5 +1,5 @@
 # TikViews
-auto views ans shares for tiktok videos
+auto views and shares for tiktok videos
 
 Setup
 ------
@@ -12,6 +12,8 @@ Extract ChromeDriver in the same Folder as Tikviews - Petit Prince.exe
 ![image](https://user-images.githubusercontent.com/57633464/192060161-1fe2ecef-71e5-4353-98f9-d87e1c2f53e6.png)
 
 **execute Tikviews - Petit Prince.exe**
+
+![image](https://user-images.githubusercontent.com/57633464/192062496-d22fb9a3-14cf-49a6-ad0e-dcd486aa4b24.png)
 
 ----------------------
 
